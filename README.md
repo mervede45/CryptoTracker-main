@@ -118,9 +118,7 @@ Her bileşen kendi `styles.js` dosyasına sahiptir. Global tema ayarları için 
 3. Değişikliklerinizi commit edin (`git commit -m 'Add amazing feature'`)
 4. Branch'inizi push edin (`git push origin feature/amazing-feature`)
 5. Pull Request oluşturun
-## 📞 İletişim
 
-Proje Linki: [https://github.com/kullaniciadi/CryptoTracker-main](https://github.com/mervede45/CryptoTracker-main)
 
 ---
 
