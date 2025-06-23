@@ -56,7 +56,7 @@ Modern ve kullanıcı dostu bir React Native kripto para takip uygulaması. Ger�
 
 1. **Repoyu klonlayın**
    ```bash
-   git clone https://github.com/kullaniciadi/CryptoTracker-main.git
+   git clone https://github.com/mervede45/CryptoTracker-main.git
    cd CryptoTracker-main
    ```
 
@@ -118,14 +118,9 @@ Her bileşen kendi `styles.js` dosyasına sahiptir. Global tema ayarları için 
 3. Değişikliklerinizi commit edin (`git commit -m 'Add amazing feature'`)
 4. Branch'inizi push edin (`git push origin feature/amazing-feature`)
 5. Pull Request oluşturun
-
-## 📄 Lisans
-
-Bu proje MIT lisansı altında lisanslanmıştır. Detaylar için [LICENSE](LICENSE) dosyasına bakın.
-
 ## 📞 İletişim
 
-Proje Linki: [https://github.com/kullaniciadi/CryptoTracker-main](https://github.com/kullaniciadi/CryptoTracker-main)
+Proje Linki: [https://github.com/kullaniciadi/CryptoTracker-main](https://github.com/mervede45/CryptoTracker-main)
 
 ---
 
